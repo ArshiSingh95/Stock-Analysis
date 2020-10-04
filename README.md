@@ -17,7 +17,7 @@
  ## Refactored Code & Run time
  	
  	
- ![](Resources/2017VR.png)
+ 
  ![](Resources/Code_Refactored1.png)
  ![](Resources/Code_Refactored2.png)
  	
