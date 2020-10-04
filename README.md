@@ -10,7 +10,7 @@
 -	In 2017, all Stocks in the data set yielded a profit besides ticker TERP which had a return of -7.2%. Ticker DQ yielded an impressive return of 199.4%. However, in 2017 DQ had the lowest volume. Meaning this stock is not being traded as much as the other typically for a good reason. The price can be easily manipulated if the volume is low and can sometimes be a red flag. If Steve's client are looking for a long term investment then low volume should be taken into consideration. In 2018 only ENPH and RUN yielded retuns with 81.9% and 84%. We can see DQ was indeed not stable because it yielded the lowest retun at 62.6% return. Analysis was done to see if there is any trend between volume and return but there is no correlation as seen on the graph below. Based on this analysis ENPH and RUN seem to only two stocks Steve's clients should invest in.
 
  ![alt text](https://github.com/ArshiSingh95/Stock-Analysis/blob/master/Resources/2017VR.png?raw=True)
- ![](resources/2018VR.png)
+ ![](Resources/2018VR.png)
  
  
  
@@ -18,8 +18,8 @@
  	
  	
  	![](resources/2017VR.png)
- ![](resources/Code_Refactored1.png)
- ![](resources/Code_Refactored2.png)
+ ![](Resources/Code_Refactored1.png)
+ ![](Resources/Code_Refactored2.png)
  	
  	
  	
@@ -32,8 +32,8 @@
  
  
  
- ![](resources/VBA_Challenge_2017.png)
- ![](resources/VBA_Challenge_2018.png)
+ ![](Resources/VBA_Challenge_2017.png)
+ ![](Resources/VBA_Challenge_2018.png)
 
 
 
