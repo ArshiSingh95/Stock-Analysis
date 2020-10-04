@@ -17,9 +17,9 @@
  ## Refactored Code & Run time
  	
  	
- 	![](./resources/2017VR.png)
- ![](./resources/Code_Refactored1.png)
- ![](./resources/Code_Refactored2.png)
+ 	![](resources/2017VR.png)
+ ![](resources/Code_Refactored1.png)
+ ![](resources/Code_Refactored2.png)
  	
  	
  	
@@ -32,8 +32,8 @@
  
  
  
- ![](./resources/VBA_Challenge_2017.png)
- ![](./resources/VBA_Challenge_2018.png)
+ ![](resources/VBA_Challenge_2017.png)
+ ![](resources/VBA_Challenge_2018.png)
 
 
 
