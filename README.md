@@ -37,7 +37,7 @@
 
 
 
-###Summary: 
+### Summary: 
 -  Generally refactoring code comes with advantages and disadvantages. If one is not an adept coder a refactored code may be beneficial since majority of code is provided. A disadvantge might be if a code has an error prior to the refactoring. 
 
 -  In regards to VBA script refactoring code was helpful because most of the code was provided and we simply had to adjust the for loops.
